@@ -1,0 +1,8 @@
+.vs
+*.filters
+*.user
+*.vcxproj
+Learn.pdb
+/Debug
+/Learn/x64
+/Learn/Debug
